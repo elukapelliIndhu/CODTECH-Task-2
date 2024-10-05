@@ -43,3 +43,7 @@ The objective of the Recipe Organizer, which allows users to manage, add, and se
 **Key JavaScript concepts:**  Arrays, DOM Manipulation, Event Listeners, Local Storage API (optional)
 
 
+![image](https://github.com/user-attachments/assets/f7bef366-6fe4-43f7-a130-a602f249fd9b)
+
+![image](https://github.com/user-attachments/assets/4e36a2be-d98c-4fa5-88af-4f4f4e392f40)
+
